@@ -26,7 +26,8 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 ```
 ## Co-clustering
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="45%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?	raw=true" width="45%">
+
 ## Requirements
 ```python
 numpy==1.18.3
