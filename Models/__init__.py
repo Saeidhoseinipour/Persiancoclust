@@ -11,8 +11,8 @@ algorithms with Nonnegative Matrix Tri Factorization.
 """
 
 from .NMTFcoclust_OPNMTF_alpha import OPNMTF
-from .NMTFcoclust_ONMTF_alpha import CoclustELBMcem
-from .NMTFcoclust_NMTF_alpha import CoclustSELBMcem
+from .coclust_ELBMcem import CoclustELBMcem
+from .coclust_SELBMcem import CoclustSELBMcem
 
 
 
