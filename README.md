@@ -119,7 +119,7 @@ Please cite the following paper in your publication if you are using [Persian-Te
 
 ```bibtex
  @article{Persianmining, 
-    title={textual summirazation persian text datasets by co-clustering algorithms}, 
+    title={Textual summarization of persian corpus by co-clustering algorithms.}, 
     DOI={Preprint}, 
     journal={preprint}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
