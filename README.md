@@ -32,7 +32,6 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 
 ## 
 
-<table>
 <tr>
 <th> Document-Word matrix </th>
 <th> Word clouds co-clustering </th>
@@ -45,7 +44,6 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true" width="50%">
 </td>
 </tr>
-</table>
 
 ## Requirements
 ```python
