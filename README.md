@@ -1,7 +1,7 @@
-## 
 
 
-### Brief description of models
+
+## Brief description of models
 NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpective matrix factorization and latent block model
 - $OPNMTF_{\alpha}$ 
 ```math
@@ -25,7 +25,7 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 	\right)
 ```
 
-### Requirements
+## Requirements
 ```python
 numpy==1.18.3
 pandas==1.0.3
@@ -35,12 +35,12 @@ scikit-learn==0.22.2.post1
 coclust==0.2.1
 
 ```
-### Installing NMTFcoclust
+## Installing NMTFcoclust
 
-### License
+## License
 
 
-### Datasets
+## Datasets
 
 | Datasets | Documents | Words | Sporsity | Number of clusters |
 | -- | ----------- | -- | -- | -- |
@@ -74,7 +74,7 @@ print(confusion_matrix(true_labels, true_labels))
 
 ```
 
-### Model
+## Model
 ```python
 from NMTFcoclust.Models import NMTFcoclust_ONMTF_alpha
 
@@ -105,7 +105,7 @@ Total Time:  26.558243700000276
 
 ![DC](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/WC_classic3.png?raw=true)
 
-### Cite
+## Cite
 Please cite the following paper in your publication if you are using [Persian-Textmining]() in your research:
 
 ```bibtex
@@ -117,7 +117,7 @@ Please cite the following paper in your publication if you are using [Persian-Te
     year={2023}
 } 
 ```
-### References
+## References
 
 [1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding, Neural Processing Letters (2021).](https://github.com/Saeidhoseinipour/parsbert) 
 
