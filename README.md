@@ -77,13 +77,7 @@ print(confusion_matrix(true_labels, true_labels))
 ### Model
 ```python
 from NMTFcoclust.Models import NMTFcoclust_ONMTF_alpha
-from NMTFcoclust.Models import NMTFcoclust_NMTF_alpha
-from NMTFcoclust.Models import NMTFcoclust_PNMTF
-from NMTFcoclust.Models import NMTFcoclust_ONM3F
-from NMTFcoclust.Models import NMTFcoclust_ONMTF
-from NMTFcoclust.Models import NMTFcoclust_NBVD
-from NMTFcoclust.Models import NMTFcoclust_ODNMF
-from NMTFcoclust.Models import NMTFcoclust_DNMF
+
 ```
 ```python
 from NMTFcoclust.Models.NMTFcoclust_OPNMTF_alpha_2 import OPNMTF
@@ -112,32 +106,19 @@ Total Time:  26.558243700000276
 ![DC](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/WC_classic3.png?raw=true)
 
 ### Cite
-Please cite the following paper in your publication if you are using [NMTFcoclust]() in your research:
+Please cite the following paper in your publication if you are using [Persian-Textmining]() in your research:
 
 ```bibtex
- @article{NMTFcoclust, 
-    title={Orthogonal Parametric Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Co-clustering}, 
-    DOI={10.1007/s11063-021-10528-4}, 
-    journal={Information processing and management}, 
+ @article{Persianmining, 
+    title={textual summirazation persian text datasets by co-clustering algorithms}, 
+    DOI={Preprint}, 
+    journal={preprint}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
     year={2023}
 } 
 ```
 ### References
 
-[1] Wang et al, Penalized nonnegative matrix tri-factorization for co-clustering (2017), Expert Systems with Applications. [PNMTF](https://www.sciencedirect.com/science/article/abs/pii/S0957417417300283)
+[1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding (2021), Neural Processing Letters.](https://github.com/Saeidhoseinipour/parsbert) 
 
-[2] Yoo et al, Orthogonal nonnegative matrix tri-factorization for co-clustering: Multiplicative updates on Stiefel manifolds (2010), 
-	Information Processing and Management. [ONMTF](https://www.sciencedirect.com/science/article/abs/pii/S0306457310000038)
-	
-[3] Ding et al, Orthogonal nonnegative matrix tri-factorizations for clustering (2008), Proceedings of the 12th ACM SIGKDD International Conference on Knowledge 	Discovery and Data Mining. [ONM3F](https://dl.acm.org/doi/abs/10.1145/1150402.1150420)
 
-[4] Long et al, Co-clustering by block value decomposition (2005), Proceedings of the Eleventh ACM SIGKDD International Conference on Knowledge Discovery in Data 	Mining. [NBVD](https://dl.acm.org/doi/abs/10.1145/1081870.1081949)
-
-[5] [Labiod et al, Co-clustering under nonnegative matrix tri-factorization (2011), International Conference on Neural Information Processing.](https://link.springer.com/chapter/10.1007/978-3-642-24958-7_82)
-
-[6] [Li et al, Nonnegative Matrix Factorization on Orthogonal Subspace (2010), Pattern Recognition Letters.](sciencedirect.com/science/article/abs/pii/S0167865509003651)
-
-[7] [Li et al, Nonnegative Matrix Factorizations for Clustering: A Survey (2019), Data Clustering.](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315373515-7/nonnegative-matrix-factorizations-clustering-survey-tao-li-cha-charis-ding)
-
-[8] [Cichocki et al, Non-negative matrix factorization with $\alpha$-divergence (2008), Pattern Recognition Letters.](https://www.sciencedirect.com/science/article/abs/pii/S0167865508000767)
