@@ -39,22 +39,13 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 <tr>
 <td>
 
-```c++
-int foo() {
-    int result = 4;
-    return result;
-}
-```
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="10%">
 
 </td>
 <td>
 
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true" width="10%">
+
 
 </td>
 </tr>
