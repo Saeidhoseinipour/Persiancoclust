@@ -103,7 +103,7 @@ Confusion matrix   (CM):
 Total Time:  26.558243700000276
 ```
 
-![DC](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/WC_classic3.png?raw=true)
+![DC](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true)
 
 ## Cite
 Please cite the following paper in your publication if you are using [Persian-Textmining]() in your research:
