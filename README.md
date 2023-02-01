@@ -1,53 +1,28 @@
-# **NMTFcoclust**  
-### **NMTFcocluster** (Non-negative Matrix Tri-Factorization for coclustering) is a package that implements decomposition on a data matrix $\mathbf{X}$ (document-word matrix and so on) with finding three  matrices $\mathbf{F}$ (roles membership rows), $\mathbf{G}$ (roles membership columns) and $\mathbf{S}$ (roles summary matrix) based optimazed $\alpha$-divergence.
-
- The low-rank approximation of $\mathbf{X}$ by
-     $$\mathbf{X} \approx \mathbf{FSG}^{\top} $$
-where $n$, $m$, $g \leqslant n$ and $s \leqslant m$ are the number of rows, columns, row clusters and column clusters, respectively.
-
-
-![NMTF](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/nmtf7.png?raw=true)
+## 
 
 
 ### Brief description of models
-NMTFcoclust implements three proposed algorithms and some NMTF according to objective functions below:
+NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpective matrix factorization and latent block model
 - $OPNMTF_{\alpha}$ 
 ```math
-D_{\alpha}(\mathbf{X}||\mathbf{FSG}^{\top})+
-  \lambda \; D_{\alpha}(\mathbf{I}_{g}||\mathbf{F}^{\top}\mathbf{F})+
-  \mu \; D_{\alpha}(\mathbf{I}_{s}||\mathbf{G}^{\top}\mathbf{G})
+D_{\alpha}(\mathbf{X}||\mathbf{RSC}^{\top})+
+  \lambda \; D_{\alpha}(\mathbf{I}_{g}||\mathbf{R}^{\top}\mathbf{R})+
+  \mu \; D_{\alpha}(\mathbf{I}_{s}||\mathbf{C}^{\top}\mathbf{C})
 ```
-- $ONMTF_{\alpha}$
+- $ELBMcem$
 ```math
-   D_{\alpha}(\mathbf{X}||\mathbf{FSG}^{\top})+
-   \delta Tr(\mathbf{F}\Psi_{g}\mathbf{F}^{\top}) +	
-   \beta Tr(\mathbf{G} \Psi_{s}\mathbf{G}^{\top})
-```
-- $NMTF_{\alpha}$
- $$D_{\alpha}(\mathbf{X}||\mathbf{FSG}^{\top})$$ 
-- [$PNMTF$](https://www.sciencedirect.com/science/article/abs/pii/S0957417417300283)
-```math
- 0.5||\mathbf{X}-\mathbf{F}\mathbf{S}\mathbf{G}^{\top}||^{2}+0.5 \tau \; Tr(\mathbf{F} \Psi_{g}\mathbf{F}^{\top})+0.5 \eta \; Tr(\mathbf{G} \Psi_{s}\mathbf{G}^{\top})+ 0.5 \gamma \; Tr(\mathbf{S}^{\top}\mathbf{S})
-```
-- [$ONMTF$](https://www.sciencedirect.com/science/article/abs/pii/S0306457310000038)
-```math
-	0.5 ||\mathbf{X}-\mathbf{F}\mathbf{S}\mathbf{G}^{\top}||^{2}
-```
-- [$NBVD$](https://dl.acm.org/doi/abs/10.1145/1081870.1081949)
- $$||\mathbf{X}-\mathbf{FSG}^{\top}||^{2}$$
-- [$ONM3T$](https://dl.acm.org/doi/abs/10.1145/1150402.1150420)
-```math
-	||\mathbf{X}-\mathbf{F}\mathbf{S}\mathbf{G}^{\top}||^{2}+ 
- Tr(\Lambda (\mathbf{F}^{\top}\mathbf{F}-\mathbf{I}_{s}))+ 
- Tr(\Gamma (\mathbf{G}^{\top}\mathbf{G}-\mathbf{I}_{g}))
-```
-- [$ODNMTF$](https://link.springer.com/chapter/10.1007/978-3-642-24958-7_82)
-```math
- ||\mathbf{X}-\mathbf{FF^{\top}XGG}^{\top}||^{2}+ Tr(\Lambda \mathbf{F}^{\top})+ Tr( \Gamma \mathbf{G}^{\top})
-```
-- [$DNMTF$](https://link.springer.com/chapter/10.1007/978-3-642-24958-7_82)
-```math
- ||\mathbf{X}-\mathbf{FF^{\top}XGG}^{\top}||^{2}
+   \sum\limits_{k} r_{.k} \log\pi_{k} +	
+	\sum\limits_{h}
+	\log\rho_{h} c^{\top}_{h.} +
+	Tr\left(
+	(\mathbf{R}^{\top} (\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
+	\mathbf{A}_{\boldsymbol{\alpha}}
+	\right)- 
+	Tr\left(
+	(\mathbf{R}^{\top} (\mathbf{E}_{mn}\odot
+	\hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
+	\mathbf{F}_{\boldsymbol{\alpha}}
+	\right)
 ```
 
 ### Requirements
@@ -78,10 +53,6 @@ coclust==0.2.1
 | [NG20](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/NG20..mat) |19949  | 43586 | 99.99% |20  |
 
 
-- [20Newsgroups](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/20Newsgroups.mat)
-- [TDT2](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/TDT2..mat)
-- [Reuters21578](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/Reuters21578..mat)
-- [RCV1_ori](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Datasets/RCV1_ori..mat)
 ```python
 import pandas as pd 
 import numpy as np
