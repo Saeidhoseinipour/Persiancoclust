@@ -85,15 +85,22 @@ print(confusion_matrix(true_labels, true_labels))
 
 ## Model
 ```python
-from NMTFcoclust.Models import NMTFcoclust_ONMTF_alpha
-
+from NMTFcoclust.Models.NMTFcoclust_ONMTF_alpha import OPNMTF
+from ELBMcoclust.Models.coclust_ELBMcem import CoclustELBMcem
+from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 ```
 ```python
-from NMTFcoclust.Models.NMTFcoclust_OPNMTF_alpha_2 import OPNMTF
 from NMTFcoclust.Evaluation.EV import Process_EV
 
 OPNMTF_alpha = OPNMTF(n_row_clusters = 3, n_col_clusters = 3, landa = 0.3,  mu = 0.3,  alpha = 0.4, max_iter=1)
-OPNMTF_alpha.fit(X_Classic3_sum_1)
+OPNMTF_alpha.fit(X_tfidf)
+
+ELBM = CoclustELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson", max_iter=1)
+ELBM.fit(X_tfidf)
+
+SELBM = CoclustSELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson", max_iter=1)
+SELBM.fit(X_tfidf)
+
 Process_Ev = Process_EV( true_labels ,X_Classic3_sum_1, OPNMTF_alpha) 
 
 
