@@ -24,7 +24,9 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 	\mathbf{F}_{\boldsymbol{\alpha}}
 	\right)
 ```
+## Co-clustering
 
+<img alt="Screenshot: 'README.md'" src="https://github.com/laudep/code-gif-generator/blob/master/docs/img/readme-content.gif?raw=true" width="45%">
 ## Requirements
 ```python
 numpy==1.18.3
