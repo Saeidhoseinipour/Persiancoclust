@@ -119,6 +119,6 @@ Please cite the following paper in your publication if you are using [Persian-Te
 ```
 ### References
 
-[1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding (2021), Neural Processing Letters.](https://github.com/Saeidhoseinipour/parsbert) 
+[1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding, Neural Processing Letters (2021).](https://github.com/Saeidhoseinipour/parsbert) 
 
 
