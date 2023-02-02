@@ -11,3 +11,11 @@
 ## Persian news
 
 ![DC](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Persian_news.png?raw=true)
+
+## Digikala
+
+
+## Digimag
+
+## Snappfood
+
