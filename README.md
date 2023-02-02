@@ -26,10 +26,10 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 ```
 ## Co-clustering
 
-### Document-Word Matrix
+### Example of Co-clustering on Document-Word (Term) Matrix 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="45%">
 
-### Word Cloud Co-clustering for [Digikala Persian comments](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Digikala%20comments) 
+### Word Cloud Co-clustering for [Digikala Persian Comments](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Digikala%20comments) 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true" width="45%">
 
 
