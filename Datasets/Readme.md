@@ -30,6 +30,9 @@
 |  1 | 2599.6  |  99.4001 | 2556.45 |
 |  2 | 2568.59 |  94.2501 | 2487.27 |
 
+### Word clouds 
+
+![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Persian%20news/Wordcloud_Persian_news_33.png?raw=true)
 
 ## Digikala
 
