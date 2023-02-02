@@ -22,6 +22,14 @@
 
 ![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Persian%20news/Persian_news_DT_matrix.png?raw=true)
 
+### Summarization metrics 
+
+|    |       0 |        1 |       2 |
+|---:|--------:|---------:|--------:|
+|  0 | 2720.49 | 101.536  | 2629.82 |
+|  1 | 2599.6  |  99.4001 | 2556.45 |
+|  2 | 2568.59 |  94.2501 | 2487.27 |
+
 
 ## Digikala
 
