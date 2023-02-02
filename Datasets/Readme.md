@@ -10,3 +10,4 @@
 
 ## Persian news
 
+![DC](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true)
