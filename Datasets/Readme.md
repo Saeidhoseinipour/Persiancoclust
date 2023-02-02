@@ -1,5 +1,6 @@
 ## Psychological Advice texts in Persian
 
+![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Psy_advice.png?raw=true)
 
 |   Question |   Subject |
 |----:|----:|
