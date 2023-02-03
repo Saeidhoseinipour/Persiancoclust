@@ -33,7 +33,7 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true" width="45%">
 
 
-### Word Cloud Co-clustering for [Persian News]()
+### Word Cloud Co-clustering for [Persian News](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Persian%20news)
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Persian_nesw.gif?raw=true" width="45%">
 
 ## Requirements
