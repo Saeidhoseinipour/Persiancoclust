@@ -5,7 +5,7 @@
 NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpective matrix factorization and latent block model
 - $ONMTF_{\alpha}$
 ```math
-	\xi_{\text{ONMTF}_{\alpha}}=D_{\alpha}(\mathbf{X}\| \mathbf{FSG}^{\top})
+	D_{\alpha}(\mathbf{X}|| \mathbf{FSG}^{\top})
 	+
 	\delta \; \text{Tr}(\mathbf{F}\bm{\Psi}_{g}\mathbf{F}^{\top})
 	+
