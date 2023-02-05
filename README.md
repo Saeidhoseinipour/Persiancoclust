@@ -11,6 +11,10 @@ NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpect
 	+
 	\beta \;  Tr(\mathbf{G}\Psi_{s}\mathbf{G}^{\top}),
 ```
+- $NMTF_{\alpha}$
+```math
+	D_{\alpha}(\mathbf{X}|| \mathbf{FSG}^{\top})
+```
 - $OPNMTF_{\alpha}$ 
 ```math
 D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
