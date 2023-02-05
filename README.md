@@ -140,6 +140,6 @@ Please cite the following paper in your publication if you are using [Persian-Te
 
 [1] [Mehrdad Farahani et al, Parsbert: Transformer-based model for Persian language understanding, Neural Processing Letters (2021).](https://github.com/Saeidhoseinipour/parsbert) 
 
-[2] Saeid et al, Orthogonal parametric matrix tri-factorization with $\alpha$-divergence for co-clustering (2023), Information Proccessing and Managment.
+[2] Saeid et al, Orthogonal parametric matrix tri-factorization with $\alpha$-divergence for co-clustering (2023), Preprint.
 
-[3] Saeid et al, Sparse Expoential family latent block model for co-clustering (2023), Stat.
+[3] Saeid et al, Sparse Expoential family latent block model for co-clustering (2023), Preprint.
