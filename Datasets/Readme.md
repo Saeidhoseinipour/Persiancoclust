@@ -4,11 +4,20 @@
 - [Digikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag) - A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes `Video Games`, `Shopping Guide`, `Health Beauty`, `Science Technology`, `General`, `Art Cinema`, and `Books Literature`.
 - [Persian News](https://hooshvare.github.io/docs/datasets/tc#persian-news) - A dataset of various news articles scraped from different online news agencies’ websites. The total number of articles is 16,438, spread over eight different classes, `Economic`, `International`, `Political`, `Science Technology`, `Cultural Art`, `Sport`, and `Medical`.
 - [Psychological advise](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Psychological%20advise%20text%20in%20Persian) - 
-- [Snappfood](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Snappfood) - 
+- [Snappfood](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Snappfood) - Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification), `Happy` and `Sad`.
 - [Hamshahri](http://dbrg.ut.ac.ir/Hamshahri/download.html) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
 - [Bijankhan Corpus](http://dbrg.ut.ac.ir/bijankhan/) - Bijankhan corpus is a tagged corpus that is suitable for natural language processing research on the Persian (Farsi) language. This collection is gathered form daily news and common texts. In this collection all documents are categorized into different subjects such as political, cultural and so on. Totally, there are 4300 different subjects. The Bijankhan collection contains about 2.6 millions manually tagged words with a tag set that contains 40 Persian POS tags.
 
-
+## Sentiment Analysis
+- [NRC-Persian-Lexicon](https://github.com/mhbashari/NRC-Persian-Lexicon) - NRC Word-Emotion Association Lexicon useful for persian sentiment analysis.
+- [Digikala OpenData Sentiment](https://www.digikala.com/opendata/#section-4) - data contains 100,000 samples of users' comments in favor of products labeled as `no_idea`, `not_recommended `, and `recommended `.
+- [Pars-ABSA](https://github.com/Titowak/Pars-ABSA) - Manually annotated Persian dataset, verified by 3 native Persian speakers. The dataset consists of 5,114 positive, 3,061 negative and 1,827 neutral data samples from 5,602 unique reviews.  
+- [PerSent](https://www.gelbukh.com/resources/persent/) - This dataset presents real-valued polarity labels, in the range from -1 to 1, for thousands of Persian words and expressions.  
+- [DeepSentiPers](https://github.com/JoyeBright/DeepSentiPers) - Novel Deep Learning Models Trained Over Proposed Augmented Persian Sentiment Corpus
+- [SentiPers](https://github.com/phosseini/sentipers) -  Documents in SentiPers are manually annotated at different levels. 
+- [LexiPers](https://github.com/phosseini/lexipers) - An ontology based sentiment lexicon for Persian.  
+- [SnappFood](https://hooshvare.github.io/docs/datasets/sa#snappfood) - Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification), `Happy` and `Sad`.
+- [MirasOpinion](https://github.com/miras-tech/MirasText/tree/master/MirasOpinion) - This repository contains information about MirasOpinion dataset, which is the largest Persian sentiment analysis dataset up to this date, alongside a demo file which contains 20 documents with their corresponding labels.
 
 
 ## Psychological Advice texts in Persian
