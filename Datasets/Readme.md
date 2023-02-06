@@ -70,5 +70,8 @@
 
 ## Digimag
 
+
+![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Digimag/Digimag_2.png?raw=true)
+
 ## Snappfood
 
