@@ -99,7 +99,7 @@ from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 ONMTF_alpha = ONMTF(n_row_clusters = 3, n_col_clusters = 3, delta = 0.03,  beta = 0.03,  alpha = 0.1, max_iter=1)
 ONMTF_alpha.fit(tfidf_Digikala)
 
-NMTF_alpha = ONMTF(n_row_clusters = 3, n_col_clusters = 3, alpha = 2, max_iter=1)
+NMTF_alpha = NMTF(n_row_clusters = 3, n_col_clusters = 3, alpha = 2, max_iter=1)
 NMTF_alpha.fit(tfidf_Digikala)
 
 from sklearn.metrics import confusion_matrix 
