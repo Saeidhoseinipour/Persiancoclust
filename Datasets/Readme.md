@@ -6,8 +6,15 @@
 - [Digikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag) - A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes `Video Games`, `Shopping Guide`, `Health Beauty`, `Science Technology`, `General`, `Art Cinema`, and `Books Literature`.
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Digimag/Data_labels.png?raw=true" width="45%">
 - [Persian News](https://hooshvare.github.io/docs/datasets/tc#persian-news) - A dataset of various news articles scraped from different online news agencies’ websites. The total number of articles is 16,438, spread over eight different classes, `Economic`, `International`, `Political`, `Science Technology`, `Cultural Art`, `Sport`, and `Medical`.
+
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Persian%20news/Data_labels_Persian_news.png" width="45%">
+
 - [Psychological advise](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Psychological%20advise%20text%20in%20Persian) - 
 - [Snappfood](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Snappfood) - Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification), `Happy` and `Sad`.
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Snappfood/Data_labels_Snappfood.png" width="45%">
+
 - [Hamshahri](http://dbrg.ut.ac.ir/Hamshahri/download.html) - Hamshahri collection is a standard reliable Persian text collection that was used at Cross Language Evaluation Forum (CLEF) during years 2008 and 2009 for evaluation of Persian information retrieval systems.
 - [Bijankhan Corpus](http://dbrg.ut.ac.ir/bijankhan/) - Bijankhan corpus is a tagged corpus that is suitable for natural language processing research on the Persian (Farsi) language. This collection is gathered form daily news and common texts. In this collection all documents are categorized into different subjects such as political, cultural and so on. Totally, there are 4300 different subjects. The Bijankhan collection contains about 2.6 millions manually tagged words with a tag set that contains 40 Persian POS tags.
 
