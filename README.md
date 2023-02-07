@@ -84,31 +84,24 @@ coclust==0.2.1
 
 
 ```python
-import pandas as pd 
-import numpy as np
-from scipy.io import loadmat
-from sklearn.metrics import confusion_matrix 
+import pickle
+                                                                   # Read Data Sets ------->  Digikala
+# Loading pickle data from a file
+with open('tfidf_Digikala.pkl', 'rb') as f:
+        tfidf_Digikala = pickle.load(f)
 
+# Loading pickle data from a file
+with open('labels_Digikala', 'rb') as f:
+        labels_Digikala = pickle.load(f)
 
-                                                                   # Read Data Sets ------->  Classic3
-
-file_name=r"D:\My paper\Application\NMTFcoclust\Dataset\Classic3\classic3.mat"
-mydata = loadmat(file_name)
-
-                                                                    # Data matrix 
-X_Classic3 = mydata['A'].toarray()
-X_Classic3_sum_1 = X_Classic3/X_Classic3.sum()
-                                                                   
-true_labels = mydata['labels'].flatten().tolist()                   # True labels list [0,0,0,..,1,1,1,..,2,2,2]  n_row_cluster = 3
-true_labels = [x+1 for x in true_labels]                            # True labels list [1,1,1,..,2,2,2,..,3,3,3]  n_row_cluster = 3
-print(confusion_matrix(true_labels, true_labels))
-
-
+true_labels = np.sort(labels_Digikala)
 ```
 
 ## Model
 ```python
-from NMTFcoclust.Models.NMTFcoclust_ONMTF_alpha import OPNMTF
+from NMTFcoclust.Models.NMTFcoclust_OPNMTF_alpha import OPNMTF
+from NMTFcoclust.Models.NMTFcoclust_ONMTF_alpha import ONMTF
+from NMTFcoclust.Models.NMTFcoclust_NMTF_alpha import NMTF
 from ELBMcoclust.Models.coclust_ELBMcem import CoclustELBMcem
 from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 ```
