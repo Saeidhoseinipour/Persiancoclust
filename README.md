@@ -130,18 +130,20 @@ Process_Ev = Process_EV( np.sort(true_labels), tfidf_Digikala , NMTF_alpha)
 
 
 
-Accuracy (Acc):0.9100488306347982
-Normalized Mutual Info (NMI):0.7703948803438703
-Adjusted Rand Index (ARI):0.7641161476685447
-Adjusted Mutual Info (AMI):0.7702867787943636
-Intra-cluster Average Similarity (IAS):0.027380015679156534
-Inter-cluster Centroids Average Similarity (ICAS):0.335635399782488
-Runtime:4.049925799999983
+Accuracy (Acc):0.8761116222017786
+Normalized Mutual Info (NMI):0.6836524406477642
+Adjusted Rand Index (ARI):0.7667679710034221
+Adjusted Mutual Info (AMI):0.6834128837244977
+Silhouette score :0.0007204093021165255
+Calinski harabasz score:2.8469395382993867
+Davies bouldin score :24.506823121591225
+Intra-cluster Average Similarity (IAS):0.040789570962311075
+Inter-cluster Centroids Average Similarity (ICAS):0.91052293820662
+Runtime:'0:00:05.079835'
 Confusion matrix   (CM):
-[[1033    0    0]
- [ 276 1184    0]
- [   0   74 1324]]
-Total Time:  26.558243700000276
+[[2181  201    0]
+ [   0  216  203]
+ [   0    0  460]]
 ```
 
 ![DC](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true)
