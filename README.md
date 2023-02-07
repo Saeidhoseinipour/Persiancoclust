@@ -48,20 +48,10 @@ D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
 ### Word Cloud Co-clustering for [Persian News](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Persian%20news)
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Persian_nesw.gif?raw=true" width="45%">
 
-## Requirements
-```python
-numpy==1.18.3
-pandas==1.0.3
-scipy==1.4.1
-matplotlib==3.0.3
-scikit-learn==0.22.2.post1
-coclust==0.2.1
 
-```
 ## Installing NMTFcoclust
 
 ## License
-
 
 ## Datasets
 
