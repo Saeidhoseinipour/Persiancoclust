@@ -29,3 +29,12 @@ from colorama import Back, Fore, Style
 import matplotlib.pyplot as plt
 import pyclustering as pyclus
 
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import wordcloud_fa
+from os import path
+import persian_wordcloud
+from persian_wordcloud.wordcloud import PersianWordCloud, add_stop_words
+from wordcloud_fa import WordCloudFa
+from bidi.algorithm import get_display
+from arabic_reshaper import ArabicReshaper
