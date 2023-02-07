@@ -124,6 +124,9 @@ Confusion matrix   (CM):
 
 ![DC](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true)
 
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Results/Persian%20news/Wordcloud_8_8_Persian_news.png?raw=true" width="45%">
+
+
 ## Cite
 Please cite the following paper in your publication if you are using [Persian-Textmining]() in your research:
 
