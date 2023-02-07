@@ -113,18 +113,20 @@ from ELBMcoclust.Models.coclust_ELBMcem import CoclustELBMcem
 from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 ```
 ```python
+ONMTF_alpha = ONMTF(n_row_clusters = 3, n_col_clusters = 3, delta = 0.03,  beta = 0.03,  alpha = 0.1, max_iter=1)
+ONMTF_alpha.fit(tfidf_Digikala)
+
+NMTF_alpha = ONMTF(n_row_clusters = 3, n_col_clusters = 3, alpha = 2, max_iter=1)
+NMTF_alpha.fit(tfidf_Digikala)
+
+from sklearn.metrics import confusion_matrix 
+
+confusion_matrix(np.sort(true_labels), np.sort(ONMTF_alpha.row_labels_))
+
 from NMTFcoclust.Evaluation.EV import Process_EV
 
-OPNMTF_alpha = OPNMTF(n_row_clusters = 3, n_col_clusters = 3, landa = 0.3,  mu = 0.3,  alpha = 0.4, max_iter=1)
-OPNMTF_alpha.fit(X_tfidf)
-
-ELBM = CoclustELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson", max_iter=1)
-ELBM.fit(X_tfidf)
-
-SELBM = CoclustSELBMcem(n_row_clusters = 3, n_col_clusters = 3, model = "Poisson", max_iter=1)
-SELBM.fit(X_tfidf)
-
-Process_Ev = Process_EV( true_labels ,X_Classic3_sum_1, OPNMTF_alpha) 
+Process_Ev = Process_EV( np.sort(true_labels), tfidf_Digikala , ONMTF_alpha) 
+Process_Ev = Process_EV( np.sort(true_labels), tfidf_Digikala , NMTF_alpha) 
 
 
 
