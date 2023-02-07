@@ -1,6 +1,7 @@
 
 ## Text Categorization and Classification
 - [Digikala]() - Digikala user comments are included in a dataset provided by Open Data Mining Program (ODMP). This dataset comprises 62,321 comments, each with a label of either `No Idea`, `Not Recommended`, and `Recommended`.
+![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Digikala%20comments/Data_labels_Digikala.png?raw=true)
 - [Digikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag) - A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes `Video Games`, `Shopping Guide`, `Health Beauty`, `Science Technology`, `General`, `Art Cinema`, and `Books Literature`.
 ![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Digimag/Data_labels.png?raw=true)
 - [Persian News](https://hooshvare.github.io/docs/datasets/tc#persian-news) - A dataset of various news articles scraped from different online news agencies’ websites. The total number of articles is 16,438, spread over eight different classes, `Economic`, `International`, `Political`, `Science Technology`, `Cultural Art`, `Sport`, and `Medical`.
