@@ -126,13 +126,6 @@ Process_Ev = Process_EV( np.sort(true_labels), tfidf_Digikala , NMTF_alpha)
 Accuracy (Acc):0.8761116222017786
 Normalized Mutual Info (NMI):0.6836524406477642
 Adjusted Rand Index (ARI):0.7667679710034221
-Adjusted Mutual Info (AMI):0.6834128837244977
-Silhouette score :0.0007204093021165255
-Calinski harabasz score:2.8469395382993867
-Davies bouldin score :24.506823121591225
-Intra-cluster Average Similarity (IAS):0.040789570962311075
-Inter-cluster Centroids Average Similarity (ICAS):0.91052293820662
-Runtime:'0:00:05.079835'
 Confusion matrix   (CM):
 [[2181  201    0]
  [   0  216  203]
