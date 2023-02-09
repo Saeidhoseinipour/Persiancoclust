@@ -44,9 +44,11 @@
 |  1 | 2599.6  |  99.4001 | 2556.45 |
 |  2 | 2568.59 |  94.2501 | 2487.27 |
 
-### Word clouds 
+### Word clouds 3 $\times$ 3
 
 ![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Persian%20news/Wordcloud_Persian_news_33.png?raw=true)
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Results/Persian%20news/Wordcloud_8_8_Persian_news.png?raw=true" width="100%">
 
 - [Psychological advise](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Psychological%20advise%20text%20in%20Persian) - 
 
