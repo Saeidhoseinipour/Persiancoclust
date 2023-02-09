@@ -3,6 +3,12 @@
 
 ## Brief description of models
 NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpective matrix factorization and latent block model
+
+- $NMTF_{\alpha}$
+```math
+	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
+```
+
 - $ONMTF_{\alpha}$
 ```math
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
@@ -11,31 +17,8 @@ NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpect
 	+
 	\beta \;  Tr(\mathbf{C}\Psi_{s}\mathbf{C}^{\top}),
 ```
-- $NMTF_{\alpha}$
-```math
-	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
-```
-- $OPNMTF_{\alpha}$ 
-```math
-D_{\alpha}(\mathbf{X}||\mathbf{RBC}^{\top})+
-  \lambda \; D_{\alpha}(\mathbf{I}_{g}||\mathbf{R}^{\top}\mathbf{R})+
-  \mu \; D_{\alpha}(\mathbf{I}_{s}||\mathbf{C}^{\top}\mathbf{C})
-```
-- $ELBMcem$
-```math
-   \sum\limits_{k} r_{.k} \log\pi_{k} +	
-	\sum\limits_{h}
-	c_{.h}\log\rho_{h}  +
-	Tr\left(
-	(\mathbf{R}^{\top} (\mathbf{S_{x}}\odot \hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
-	\mathbf{A}_{\boldsymbol{\alpha}}
-	\right)- 
-	Tr\left(
-	(\mathbf{R}^{\top} (\mathbf{E}_{mn}\odot
-	\hat{\boldsymbol{\beta}}) \mathbf{C})^{\top}
-	\mathbf{F}_{\boldsymbol{\alpha}}
-	\right)
-```
+
+
 ## Co-clustering
 
 ### Example of Co-clustering on Document-Word (Term) Matrix 
