@@ -51,12 +51,6 @@ NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpect
 
 **For more details see [this page](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Readme.md)**
 
-|          Dataset         | Documents   | Words       |  Sporsity |Unbalance| Number of clusters |
-|:------------------------:|:-----------:|:-----------:|:-----------:|:-----:|:-------------:|
-|  Digikala                |      -      |    81.72    |    81.74*   | 80.74 |       -       |
-|  Digimag                 |      -      |    87.98    |    88.12*   | 87.87 |       -       |
-|  Persian news            |      -      |    71.31*   |    71.11    |   -   |     69.33     |
-| Psychological advice     |      -      |    92.42*   |    92.13    |   -   |     91.98     |
 
 
 ```python
