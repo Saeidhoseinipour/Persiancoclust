@@ -69,11 +69,8 @@ true_labels = np.sort(labels_Digikala)
 
 ## Model
 ```python
-from NMTFcoclust.Models.NMTFcoclust_OPNMTF_alpha import OPNMTF
 from NMTFcoclust.Models.NMTFcoclust_ONMTF_alpha import ONMTF
 from NMTFcoclust.Models.NMTFcoclust_NMTF_alpha import NMTF
-from ELBMcoclust.Models.coclust_ELBMcem import CoclustELBMcem
-from ELBMcoclust.Models.coclust_SELBMcem import CoclustSELBMcem
 ```
 ```python
 ONMTF_alpha = ONMTF(n_row_clusters = 3, n_col_clusters = 3, delta = 0.03,  beta = 0.03,  alpha = 0.1, max_iter=1)
