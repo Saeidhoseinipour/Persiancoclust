@@ -37,8 +37,6 @@ NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpect
 
 ## Installing NMTFcoclust
 
-## License
-
 ## Datasets
 
 | Datasets | Documents | Words  | Number of clusters |
