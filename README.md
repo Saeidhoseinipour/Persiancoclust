@@ -131,5 +131,5 @@ Please cite the following paper in your publication if you are using [Persian-Te
 
 [6] [Cichocki et al, Non-negative matrix factorization with $\alpha$-divergence (2008), Pattern Recognition Letters.](https://www.sciencedirect.com/science/article/abs/pii/S0167865508000767)
 
-[7] Saeid et al, Orthogonal parametric matrix tri-factorization with $\alpha$-divergence for co-clustering (2023), Expert Systems With Application (Preprint).
+[7] Saeid et al, Orthogonal parametric matrix tri-factorization with $\alpha$-divergence for co-clustering, Expert Systems With Application (2023, Preprint).
 
