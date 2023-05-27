@@ -21,7 +21,7 @@ NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpect
 
 ## Co-clustering
 
-### Example of Co-clustering on Document-Word (Term) Matrix 
+### Example of Co-clustering on Word-Document Matrix 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="45%">
 
 
