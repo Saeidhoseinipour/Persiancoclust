@@ -35,7 +35,6 @@ NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpect
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Persian_nesw.gif?raw=true" width="70%">
 
 
-## Installing NMTFcoclust
 
 ## Datasets
 
