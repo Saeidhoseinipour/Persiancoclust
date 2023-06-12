@@ -109,9 +109,9 @@ Please cite the following paper in your publication if you are using [Persian-Te
 
 ```bibtex
  @article{Persianmining, 
-    title={Textual summarization of persian corpus by co-clustering algorithms.}, 
+    title={Orthogonal  Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Text Co-clustering.}, 
     DOI={Preprint}, 
-    journal={preprint}, 
+    journal={Iranian Journal of Science (preprint)}, 
     author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
     year={2023}
 } 
