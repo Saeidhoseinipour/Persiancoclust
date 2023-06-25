@@ -2,7 +2,6 @@
 
 
 ## Brief description of models
-NMTFcoclust and ELBMcoclust implement co-clustering algorithms with two percpective matrix factorization and latent block model
 
 - $NMTF_{\alpha}$
 ```math
