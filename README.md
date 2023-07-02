@@ -20,6 +20,11 @@
 
 ## Co-clustering
 
+### NMTF
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/NMTF.png?raw=true" width="70%">
+
+
 ### Example of Co-clustering on Word-Document Matrix 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="45%">
 
@@ -91,6 +96,7 @@ Confusion matrix   (CM):
  [   0  216  203]
  [   0    0  460]]
 ```
+
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true" width="70%">
 
