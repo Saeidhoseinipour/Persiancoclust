@@ -1,15 +1,16 @@
+## Notation
 
+
+- $\mathbf{X}$:
+
+- $\mathbf{R}$:
+
+- $\mathbf{B}$:
+
+- $\mathbf{C}$:
 
 
 ## Brief description of models
-
-\mathbf{X}:
-
-\mathbf{R}:
-
-\mathbf{B}:
-
-\mathbf{C}:
 
 - $NMTF_{\alpha}$
 ```math
