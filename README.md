@@ -3,6 +3,14 @@
 
 ## Brief description of models
 
+\mathbf{X}:
+
+\mathbf{R}:
+
+\mathbf{B}:
+
+\mathbf{C}:
+
 - $NMTF_{\alpha}$
 ```math
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
