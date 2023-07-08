@@ -1,13 +1,13 @@
 ## Notation
 
 
-- $\mathbf{X}$:
+- $\mathbf{X}$: Document-word counts, Movie-viewer ratings, Product-customer purchases matrices 
 
-- $\mathbf{R}$:
+- $\mathbf{R}$: Row-coefficient matrix
 
-- $\mathbf{B}$:
+- $\mathbf{B}$: Summarization  matrix
 
-- $\mathbf{C}$:
+- $\mathbf{C}$: Column-coefficient matrix
 
 
 ## Brief description of models
