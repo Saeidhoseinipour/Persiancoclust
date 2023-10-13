@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Coclust/red?icon=instgrame)
 ## Notation
 
