@@ -117,14 +117,14 @@ Word Cloud Co-clustering for [Persian News](https://github.com/Saeidhoseinipour/
 
 
 ## Cite
-Please cite the following paper in your publication if you are using [Persian-Textmining]() in your research:
+Please cite the following paper in your publication if you are using [Persian_Textmining]() in your research:
 
 ```bibtex
  @article{Persianmining, 
-    title={Orthogonal  Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Text Co-clustering.}, 
+    title={Orthogonal Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Text Co-clustering.}, 
     DOI={Preprint}, 
     journal={Iranian Journal of Science (preprint)}, 
-    author={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
+    authors={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
     year={2023}
 } 
 ```
