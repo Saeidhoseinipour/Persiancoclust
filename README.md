@@ -12,7 +12,7 @@
 - $\mathbf{C}$: Column-coefficient matrix
 
 
-## Brief objective function of models
+## Objective function of models
 
 - $NMTF_{\alpha}$
 ```math
