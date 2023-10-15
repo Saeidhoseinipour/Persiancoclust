@@ -102,7 +102,7 @@ Process_Ev = Process_EV( np.sort(true_labels), tfidf_Digikala , NMTF_alpha)
 Accuracy (Acc):0.8761116222017786
 Normalized Mutual Info (NMI):0.6836524406477642
 Adjusted Rand Index (ARI):0.7667679710034221
-Confusion matrix   (CM):
+Confusion Matrix   (CM):
 [[2181  201    0]
  [   0  216  203]
  [   0    0  460]]
