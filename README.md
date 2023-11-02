@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Coclust/black?icon=instgrame)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Text/red?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust/tree/master/Datasets)
 
