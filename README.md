@@ -119,7 +119,7 @@ Word Cloud Co-clustering for [Persian News](https://github.com/Saeidhoseinipour/
 
 
 ## Cite
-Please cite the following paper in your publication if you are using [Persiancoclust]() in your research:
+Please cite the following paper in your publication if you are using [`Persiancoclust`]() in your research:
 
 ```bibtex
  @article{Persiancoclust, 
