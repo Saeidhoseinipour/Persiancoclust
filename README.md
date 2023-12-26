@@ -5,7 +5,6 @@
 
 ## Notation
 
-
 - $\mathbf{X}$: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
 
 - $\mathbf{R}$: Row-coefficient matrix
