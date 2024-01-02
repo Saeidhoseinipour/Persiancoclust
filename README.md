@@ -14,6 +14,7 @@
 - $\mathbf{C}$: Column-coefficient matrix
 
 
+
 ## Objective function of models
 
 - $NMTF_{\alpha}$
