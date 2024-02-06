@@ -10,6 +10,8 @@
 
 
 
+
+
 # Table of Contents
 1. [Notation](#notation)
 2. [Objective Function of Models](#objective-function-of-models)
