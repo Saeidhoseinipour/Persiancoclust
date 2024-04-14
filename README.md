@@ -29,24 +29,24 @@
 
 ## Notation
 
-- $\mathbf{X}$: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
+- \mathbf{X}\mathbf{X}: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
 
-- $\mathbf{R}$: Row-coefficient matrix
+- \mathbf{R}\mathbf{R}: Row-coefficient matrix
 
-- $\mathbf{B}$: Summarization  matrix
+- \mathbf{B}\mathbf{B}: Summarization  matrix
 
-- $\mathbf{C}$: Column-coefficient matrix
+- \mathbf{C}\mathbf{C}: Column-coefficient matrix
 
 
 
 ## Objective function of models
 
-- $NMTF_{\alpha}$
+- NMTF_{\alpha}NMTF_{\alpha}
 ```math
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
 ```
 
-- $ONMTF_{\alpha}$
+- ONMTF_{\alpha}ONMTF_{\alpha}
 ```math
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
 	+
@@ -84,6 +84,8 @@
 | [Persian news](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Persian%20news) |1644  |28216  |8  |
 | [Psychological advice text Persian](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Psychological%20advise%20text%20in%20Persian) | 79 |  1929|11  |
 | [Snappfood](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Snappfood) |3891  |4303   |3  |
+| [Varzesh3](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/varzesh3) |54  |4303   |3  |
+
 
 **For more details see [this page](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Readme.md)**
 
