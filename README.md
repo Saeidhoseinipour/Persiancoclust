@@ -12,8 +12,6 @@
 
 
 
-
-
 # Table of Contents
 1. [Notation](#notation)
 2. [Objective Functions](#objective-functions)
