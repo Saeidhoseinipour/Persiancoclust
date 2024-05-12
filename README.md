@@ -16,7 +16,7 @@
 
 # Table of Contents
 1. [Notation](#notation)
-2. [Objective Function of Models](#objective-function-of-models)
+2. [Objective Functions](#objective-functions)
 3. [Co-clustering](#co-clustering)
    - [NMTF](#nmtf)
    - [Example of Co-clustering on Word-Document Matrix](#example-of-co-clustering-on-word-document-matrix)
@@ -39,7 +39,7 @@
 
 
 
-## Objective function of models
+## Objective functions
 
 - NMTF_{\alpha}NMTF_{\alpha}
 ```math
