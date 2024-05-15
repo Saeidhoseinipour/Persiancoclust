@@ -200,5 +200,5 @@ Please cite the following paper in your publication if you are using [`Persianco
 
 [8] [Hoseinipour et al, Sparse Expoential Family Latent Block Model for Co-clustering (2023), Computational Statistics and Data Analysis (preprint).]()
 
-
+[9] [Hoseinipour et al, Orthogonal Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Co-clustering (2023), Iranian Journal of Science and Technology, Transactions of Electrical Engineering (preprint).]()
 
