@@ -1,5 +1,5 @@
 
-## Text Categorization and Classification
+## Persian Text Datasets for Classification, Clustering, Co-clustering Application
 
 - [Digikala]() - Digikala user comments are included in a dataset provided by Open Data Mining Program (ODMP). This dataset comprises 62,321 comments, each with a label of either `No Idea`, `Not Recommended`, and `Recommended`.
 
