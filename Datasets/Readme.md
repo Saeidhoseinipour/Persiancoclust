@@ -13,6 +13,9 @@
 |  کیف و کاور و سایر وسایلش پیدا نمیشه برای 4راحتتر پیدا میشه و  گارانتی بد با پاسخگویی بدی  داره |     100 |            2 | 
 |کیفت ساختش خوبه تنوعش هم خوبه   فقط مشکلش اینه که پیچ گوشتی دو سو حتی یکی هم نداره|84 | 2
 
+![](https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/Digikala%20comments/Data_Matrix_Digikala.png?raw=true)
+
+
 
 - [Digikala Magazine (DigiMag)](https://hooshvare.github.io/docs/datasets/tc#digikala-magazine-digimag) - A total of 8,515 articles scraped from Digikala Online Magazine. This dataset includes seven different classes `Video Games`, `Shopping Guide`, `Health Beauty`, `Science Technology`, `General`, `Art Cinema`, and `Books Literature`.
 
