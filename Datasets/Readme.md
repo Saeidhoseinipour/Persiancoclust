@@ -32,6 +32,11 @@
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Persian%20news/Data_labels_Persian_news.png" width="45%">
 
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/Persian%20news/persian_news_true_labels_barchart.png" width="45%">
+
+
+
 ![DC](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Persian_news.png?raw=true)
 
 |    |   Unnamed: 0 | content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | label       |   label_id |
@@ -58,6 +63,9 @@
 - [Snappfood](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Snappfood) - Snappfood (an online food delivery company) user comments containing 70,000 comments with two labels (i.e. polarity classification), `Happy` and `Sad`.
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Snappfood/Data_labels_Snappfood.png" width="45%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/Snappfood/Snappfood_labels_barchart.png" width="45%">
+
+
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Snappfood/data_Snappfood.png" width="45%">
 
