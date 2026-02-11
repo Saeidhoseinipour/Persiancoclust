@@ -5,6 +5,9 @@
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Digikala%20comments/Data_labels_Digikala.png?raw=true" width="45%">
 
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/Digikala%20comments/Digikala_labels_barchart.png?raw=true" width="45%">
+
+
 ![](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Digikala.png?raw=true)
 
 | Text                                                                                                                 |   Score |   Suggestion |
