@@ -147,11 +147,11 @@ Please cite the following paper in your publication if you are using [`Persianco
 
 ```bibtex
  @article{Persiancoclust, 
-    title={Orthogonal Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Text Co-clustering.}, 
+    title={Penalized Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Text Co-clustering}, 
     DOI={Preprint}, 
     journal={Iranian Journal of Science (preprint)}, 
-    authors={Saeid Hoseinipour, Mina Aminghafari, Adel Mohammadpour}, 
-    year={2023}
+    authors={Saeid Hoseinipour, Adel Mohammadpour}, 
+    year={2026}
 } 
 ```
 
