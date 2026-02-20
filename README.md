@@ -155,9 +155,10 @@ Please cite the following paper in your publication if you are using [`Persianco
 } 
 ```
 
-##  Presentation video
+
 
 <!--
+##  Presentation video
 
 [![Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/OPNMTF_video.png)](https://www.youtube.com/watch?v=LCamkfTYGyM&t=5s)
 
@@ -175,12 +176,14 @@ Please cite the following paper in your publication if you are using [`Persianco
   </svg>
 </p>
 
+
+<a href="">
+  <img src="" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width: 70%;">
+</a>
 -->
 
 
-<a href="">
-  <img src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Cover_ONMTF_alpha.png" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width: 70%;">
-</a>
+
 
 
 
