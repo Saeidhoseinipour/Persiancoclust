@@ -70,7 +70,7 @@
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Snappfood/data_Snappfood.png" width="45%">
 
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/all_datasets_combined_2x3.png" width="45%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/all_datasets_combined_2x3.png" width="85%">
 
 
 ## Sentiment Analysis
