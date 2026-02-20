@@ -83,6 +83,7 @@
 | [Political websites](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites) |229  |102390   |4  |
 | [Varzesh3](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/varzesh3) |54  |4303   |3  |
 
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/all_datasets_combined_2x3.png?raw=true" width="100%">
 
 **For more details see [this page](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Readme.md)**
 
