@@ -201,7 +201,7 @@ Please cite the following paper in your publication if you are using [`Persianco
 
 [7] [Hoseinipour et al, Orthogonal Parametric Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Co-clustering (2023), Expert Systems With Application.](https://doi.org/10.1016/j.eswa.2023.120680)
 
-[8] [Hoseinipour et al, Sparse Expoential Family Latent Block Model for Co-clustering (2023), Computational Statistics and Data Analysis (preprint).]()
+[8] [Hoseinipour et al, Orthogonal parametric non-negative matrix tri-factorization with $\alpha$-Divergence for co-clustering, *Expert Systems with Applications* (2023).](https://doi.org/10.1016/j.eswa.2023.120680)
 
-[9] [Hoseinipour et al, Orthogonal Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Co-clustering (2023), Iranian Journal of Science and Technology, Transactions of Electrical Engineering (preprint).]()
+[9] [Hoseinipour et al, A Sparse Exponential Family Latent Block Model for Co-clustering (2025), *Advances in Data Analysis and Classification* (2024).](https://doi.org/10.1007/s11634-024-00608-3)
 
