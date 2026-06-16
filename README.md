@@ -56,7 +56,7 @@
 
 <p align="center">
   <img alt="Co-clustering on document-word matrix" 
-  src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/image.png?raw=true" 
+  src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/NMTF.png?raw=true" 
   width="100%">
 </p>
 
@@ -69,6 +69,8 @@
   then permuted (document grouping), making latent topics visually apparent.
   </em>
 </p>
+
+
 ### Example of Co-clustering on Word-Document Matrix 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="100%">
 
