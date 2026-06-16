@@ -23,7 +23,7 @@
 
 ## Notation
 
-- $\mathbf{X}\mathbf{X}$: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
+- $\mathbf{X}$: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
 
 - \mathbf{R}\mathbf{R}: Row-coefficient matrix
 
