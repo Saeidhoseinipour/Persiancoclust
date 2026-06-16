@@ -35,12 +35,12 @@
 
 ## Objective functions
 
-- NMTF_{\alpha}NMTF_{\alpha}
+- NMTF
 ```math
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
 ```
 
-- ONMTF_{\alpha}ONMTF_{\alpha}
+- PNMTF
 ```math
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
 	+
