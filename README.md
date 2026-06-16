@@ -25,11 +25,11 @@
 
 - $\mathbf{X}$: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
 
-- \mathbf{R}\mathbf{R}: Row-coefficient matrix
+- $\mathbf{R}$: Row-coefficient matrix
 
-- \mathbf{B}\mathbf{B}: Block  matrix
+- $\mathbf{B}$: Block  matrix
 
-- \mathbf{C}\mathbf{C}: Column-coefficient matrix
+- $\mathbf{C}$: Column-coefficient matrix
 
 
 
