@@ -62,7 +62,7 @@
 
 <p align="center">
   <em>
-  Fig. 1: The input document–word matrix X ∈ R⁺<sup>n×m</sup> is factorized as X ≈ R B C<sup>T</sup>, 
+  The input document–word matrix X ∈ R⁺<sup>n×m</sup> is factorized as X ≈ R B C<sup>T</sup>, 
   where R encodes document memberships (row clusters), C encodes word memberships (column clusters), 
   and B summarizes the strength of association between document and word clusters. The reordered matrix 
   reveals co-clusters as block structures, where rows are first permuted (word grouping) and columns are 
@@ -72,19 +72,15 @@
 
 
 ### Example of Co-clustering on Word-Document Matrix 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="100%">
+<img alt="Co-clustering on word–document matrix by Saeid Hoseinipour" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" width="100%">
 
+* Co-clustering of a word–document matrix. Rows (words) are first permuted to group terms with similar distributions across documents, followed by a permutation of columns (documents) to cluster similar texts. The resulting block-diagonal structure highlights coherent word–document co-clusters.*
 
 
 
 ### Word Cloud Co-clustering for [Digikala Persian Comments](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Digikala%20comments) 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true" width="100%">
 
-<img alt="Co-clustering on word–document matrix" 
-src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" 
-width="100%">
-
-*Figure: Co-clustering of a word–document matrix. Rows (words) are first permuted to group terms with similar distributions across documents, followed by a permutation of columns (documents) to cluster similar texts. The resulting block-diagonal structure highlights coherent word–document co-clusters.*
 
 
 ## Datasets
