@@ -67,7 +67,11 @@
 ### Word Cloud Co-clustering for [Digikala Persian Comments](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Digikala%20comments) 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true" width="100%">
 
+<img alt="Co-clustering on word–document matrix" 
+src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true" 
+width="100%">
 
+*Figure: Co-clustering of a word–document matrix. Rows (words) are first permuted to group terms with similar distributions across documents, followed by a permutation of columns (documents) to cluster similar texts. The resulting block-diagonal structure highlights coherent word–document co-clusters.*
 
 
 ## Datasets
