@@ -95,9 +95,25 @@
 | [Political websites](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites) |229  |102390   |4  |
 | [Varzesh3](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/varzesh3) |54  |4303   |3  |
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/all_datasets_combined_2x3.png?raw=true" width="100%">
 
 **For more details see [this page](https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Datasets/Readme.md)**
+
+
+- **Digikala**: User comments are included in a dataset provided by the Open Data Mining Program (ODMP). This dataset comprises 3261 comments, each labeled as ‘No Idea’, ‘Not Recommended’, and ‘Recommended’.
+
+- **Digimag**: This collection has 852 articles from the online magazine Digikala. There are 7 different types of articles: ‘Video Games’, ‘Shopping Guide’, ‘Health Beauty’, ‘Science Technology’, ‘General’, ‘Art Cinema’, and ‘Books Literature’.
+
+- **Persian news**: A collection of news posts collected from various Persian online news sources. The total number of documents is 1644 and is divided into 8 categories: ‘Social’, ‘Economic’, ‘International’, ‘Political’, ‘Science Technology’, ‘Cultural Art’, ‘Sport’, and ‘Medical’.
+
+- **Psychological advice**: 79 people's questions about personal problems classified into 11 psychological topics such as: ‘Obsession’, ‘Anxiety’, ‘Shyness’, ‘Distraction’, ‘Addiction’, ‘Family’, ‘Courtship’, ‘Guilt’, ‘Jealousy’, ‘Relaxation’, and ‘Study’.
+
+- **Snappfood**: This dataset contains 7000 user comments collected from Snappfood (an online food-delivery platform in Iran). The comments are labeled for binary sentiment polarity as ‘Happy’ or ‘Sad’.
+
+- **Political websites**: Using an API request on 5 February 2026, this text-based dataset was collected from 229 Persian news websites, focusing on political topics. It comprises 102,390 words and categorizes the websites into 4 clusters: ‘Principlist’, ‘Reformist’, ‘Independent’, and ‘Opposition’.
+
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Datasets/all_datasets_combined_2x3.png?raw=true" width="100%">
+*Frequency of documents per category across the six Persian datasets, where labels represent the true document categories assigned to each dataset.*
 
 
 
