@@ -6,21 +6,6 @@
 
 
 
-
-
-# Table of Contents
-1. [Notation](#notation)
-2. [Objective Functions](#objective-functions)
-3. [Co-clustering](#co-clustering)
-   - [NMTF](#nmtf)
-   - [Example of Co-clustering on Word-Document Matrix](#example-of-co-clustering-on-word-document-matrix)
-   - [Word Cloud Co-clustering for Digikala Persian Comments](#word-cloud-co-clustering-for-digikala-persian-comments)
-4. [Datasets](#datasets)
-5. [Model](#model)
-6. [Visualization](#visualization)
-7. [Cite](#cite)
-8. [References](#references)
-
 ## Table of Contents
 <table>
   <tr>
