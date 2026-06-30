@@ -200,7 +200,6 @@ Confusion Matrix   (CM):
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Results/Persian%20news/Wordcloud_8_8_Persian_news.png?raw=true" width="100%">
 
 
-**Reorganized bar chart and word cloud for co-clustering of [Political websites](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites)**
 
 <p align="center">
   <b style="font-size:40px;">
