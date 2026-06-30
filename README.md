@@ -25,19 +25,19 @@
         <li><a href="#cite">Cite</a></li>
         <li><a href="#references">References</a></li>
       </ul>
-    </td>
-    <td>
-      <img alt="Co-clustering on word–document matrix by Saeid Hoseinipour"
-           src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true"
-           style="width:500px;">
-    </td>
-    <td>
-      <img alt="Screenshot: 'README.md'"
-           src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true"
-           style="width:500px;">
-    </td>
-  </tr>
-</table>
+	</td>
+	<td>
+	  <img alt="Co-clustering on word–document matrix by Saeid Hoseinipour"
+	       src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true"
+	       style="width:100%; max-width:500px; height:auto;">
+	</td>
+	<td>
+	  <img alt="Screenshot: 'README.md'"
+	       src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true"
+	       style="width:100%; max-width:500px; height:auto;">
+	</td>
+	</tr>
+	</table>
 
 ## Notation
 
