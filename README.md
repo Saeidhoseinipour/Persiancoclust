@@ -7,10 +7,6 @@
 
 
 ## Table of Contents
-
-## Table of Contents
-
-## Table of Contents
 <table>
   <tr>
     <td style="vertical-align: top;">
