@@ -59,6 +59,8 @@
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
 ```
 
+`D_α(X || R B Cᵀ)`
+
 - PNMTF
 ```math
 	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
