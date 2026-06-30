@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-<table width="100%">
+<table>
   <tr>
     <td width="35%" style="vertical-align: top;">
       <ul>
