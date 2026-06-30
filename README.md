@@ -41,13 +41,13 @@
 
 ## Notation
 
-- $\mathbf{X}$: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
+- **X**: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
 
-- $\mathbf{R}$: Row-coefficient matrix
+- **R**: **R**ow-coefficient matrix
 
-- $\mathbf{B}$: Block  matrix
+- **B**: **B**lock  matrix
 
-- $\mathbf{C}$: Column-coefficient matrix
+- **C**: **C**olumn-coefficient matrix
 
 
 
