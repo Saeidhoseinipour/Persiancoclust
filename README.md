@@ -29,12 +29,12 @@
     <td>
       <img alt="Co-clustering on word–document matrix by Saeid Hoseinipour"
            src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true"
-           style="width:230px;">
+           style="width:500px;">
     </td>
     <td>
       <img alt="Screenshot: 'README.md'"
            src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true"
-           style="width:300px;">
+           style="width:500px;">
     </td>
   </tr>
 </table>
