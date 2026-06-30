@@ -55,20 +55,18 @@
 ## Objective functions
 
 - NMTF
-```math
-	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
-```
-
-`D_α(X || R B Cᵀ)`
+	```math
+		D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
+	```
 
 - PNMTF
-```math
-	D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
-	+
-	\delta \; Tr(\mathbf{R}\Psi_{g}\mathbf{R}^{\top})
-	+
-	\beta \;  Tr(\mathbf{C}\Psi_{s}\mathbf{C}^{\top}),
-```
+	```math
+		D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
+		+
+		\delta \; Tr(\mathbf{R}\Psi_{g}\mathbf{R}^{\top})
+		+
+		\beta \;  Tr(\mathbf{C}\Psi_{s}\mathbf{C}^{\top}),
+	```
 
 
 ## Co-clustering
