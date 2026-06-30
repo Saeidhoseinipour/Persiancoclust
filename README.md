@@ -34,7 +34,7 @@
     <td>
       <img alt="Screenshot: 'README.md'"
            src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true"
-           style="width:190px;">
+           style="width:300px;">
     </td>
   </tr>
 </table>
