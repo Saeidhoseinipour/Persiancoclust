@@ -8,13 +8,16 @@
 
 ## Table of Contents
 
-<table>
+## Table of Contents
+
+<table width="100%">
   <tr>
     <td width="35%" style="vertical-align: top;">
       <ul>
         <li><a href="#notation">Notation</a></li>
         <li><a href="#objective-functions">Objective Functions</a></li>
-        <li><a href="#co-clustering">Co-clustering</a>
+        <li>
+          <a href="#co-clustering">Co-clustering</a>
           <ul>
             <li><a href="#nmtf">NMTF</a></li>
             <li><a href="#example-of-co-clustering-on-word-document-matrix">Example of Co-clustering on Word-Document Matrix</a></li>
@@ -30,18 +33,21 @@
     </td>
 
     <td width="32.5%" align="center">
-      <img alt="Co-clustering on word–document matrix by Saeid Hoseinipour"
-           src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true"
-           width="100%">
+      <img
+        alt="Co-clustering on word–document matrix by Saeid Hoseinipour"
+        src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Topic_detection_in_a_document-word_matrix.gif?raw=true"
+        width="100%">
     </td>
 
     <td width="32.5%" align="center">
-      <img alt="Screenshot: 'README.md'"
-           src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true"
-           width="100%">
+      <img
+        alt="Screenshot: 'README.md'"
+        src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/ezgif.com-gif-maker.gif?raw=true"
+        width="100%">
     </td>
   </tr>
 </table>
+
 
 ## Notation
 
