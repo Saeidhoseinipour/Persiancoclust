@@ -186,11 +186,10 @@ Confusion Matrix   (CM):
 
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true" width="100%">
 
-**Word Cloud Co-clustering for [Persian News](https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Persian%20news)**
 
 <p align="center">
   <b style="font-size:40px;">
-    Word Cloud Co-clustering for 
+    Reorganized word cloud Co-clustering for 
     <a href="https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Persian%20news">
       Persian News
     </a>
@@ -203,19 +202,21 @@ Confusion Matrix   (CM):
 
 <p align="center">
   <b style="font-size:40px;">
-    Reorganized bar chart for co-clustering of 
+    Reorganized bar charts for co-clustering of 
     <a href="https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites">
       Political websites
     </a>
   </b>
 </p>
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Total_BarCharts.jpg?raw=true" width="100%">
+
+
+
 
 
 
 <p align="center">
   <b style="font-size:40px;">
-    Reorganized word cloud for co-clustering of 
+    Reorganized word clouds for co-clustering of 
     <a href="https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites">
       Political websites
     </a>
