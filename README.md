@@ -211,6 +211,7 @@ Confusion Matrix   (CM):
 
 
 
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Total_BarCharts.jpg?raw=true" width="100%">
 
 
 
