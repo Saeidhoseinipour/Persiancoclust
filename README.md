@@ -4,7 +4,30 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Text/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust/tree/master/Datasets)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Wordcloud/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust/tree/master/Datasets)
 
+# **`Persiancoclust`**
+Official implementation of the paper:
 
+**Penalized   Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Text Co-clustering**
+
+`Saeid Hoseinipour`, `Adel Mohammadpour`
+  
+Published in **Iranian Journal of Science**, 2026. 
+
+DOI: https://doi.org/10.1007/s11634-024-00608-3  
+Code repository: https://github.com/Saeidhoseinipour/Persiancoclust  
+Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)](https://link.springer.com/article/10.1007/s11634-024-00608-3#rightslink)  
+<img src="https://raw.githubusercontent.com/Saeidhoseinipour/ELBMcoclust/main/Images/selfhst--gmail.svg" width="16" height="16" alt="email" style="vertical-align: middle; margin-right: 4px;"> **Call for paper** — [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
+
+## Links
+
+- Paper DOI: https://doi.org/10.1007/s11634-024-00608-3
+- Code DOI: https://doi.org/10.5281/zenodo.21093419
+- Official GitHub repository: https://github.com/Saeidhoseinipour/ELBMcoclust
+- Supplementary material: https://github.com/Saeidhoseinipour/EM-typecoclust/tree/main
+- Datasets: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets
+- Visualizations: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images
+
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="96%">
 
 ## Table of Contents
 <table>
