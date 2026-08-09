@@ -5,6 +5,8 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Wordcloud/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust/tree/master/Datasets)
 
 # **`Persiancoclust`**
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/IJS.png?raw=true" width="96%">
+
 Official implementation of the paper:
 
 **Penalized   Non-negative Matrix Tri-Factorization with $\alpha$-Divergence for Persian Text Co-clustering**
@@ -27,7 +29,6 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)](htt
 - Datasets: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets
 - Visualizations: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/IJS.png?raw=true" width="96%">
 
 ## Table of Contents
 <table>
