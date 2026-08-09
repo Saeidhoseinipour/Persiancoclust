@@ -223,22 +223,10 @@ Confusion Matrix   (CM):
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Results/Persian%20news/Wordcloud_8_8_Persian_news.png?raw=true" width="100%">
 
 
-<p align="center">
-  <b style="font-size:40px;">
-    Reorganized word clouds for co-clustering of 
-    <a href="https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites">
-      Political websites
-    </a>
-  </b>
-</p>
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Total_WordClouds.jpg?raw=true" width="100%">
-
-
-
 
 <p align="center">
   <b style="font-size:40px;">
-   Sensitivity of the parameter \(\alpha\) on six datasets analyzed using three evaluation measures.
+**Sensitivity of the parameter $\alpha$ on six datasets analyzed using three evaluation measures.**
   </b>
 </p>
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Comparison_All_Datasets.svg?raw=true" width="100%">
