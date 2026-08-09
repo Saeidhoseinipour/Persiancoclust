@@ -27,7 +27,7 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)](htt
 - Datasets: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Datasets
 - Visualizations: https://github.com/Saeidhoseinipour/ELBMcoclust/tree/main/Images
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ELBMcoclust/blob/main/Images/ADAC.png?raw=true" width="96%">
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/IJS.png?raw=true" width="96%">
 
 ## Table of Contents
 <table>
