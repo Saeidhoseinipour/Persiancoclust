@@ -225,7 +225,7 @@ Confusion Matrix   (CM):
 
 
 <p align="center">
-  <b style="font-size:40px;">
+  <b style="font-size:100px;">
 Sensitivity of the parameter α on six datasets analyzed using three evaluation measures.
   </b>
 </p>
@@ -234,8 +234,7 @@ Sensitivity of the parameter α on six datasets analyzed using three evaluation 
 
 <p align="center">
   <b style="font-size:40px;">
-   Sensitivity of the parameters \(\delta\) and \(\beta\) on six datasets analyzed by accuracy.
-  </b>
+Sensitivity of the parameters δ and β on six datasets analyzed by accuracy.  </b>
 </p>
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Sensitivity_Delta_Beta_Combined.jpg?raw=true" width="100%">
 
