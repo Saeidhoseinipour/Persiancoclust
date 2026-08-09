@@ -225,8 +225,8 @@ Confusion Matrix   (CM):
 
 
 <p align="center">
-  <b style="font-size:40px;">
-    # Sensitivity of the parameter α on six datasets analyzed using three evaluation measures.
+  <b style="font-size:2em;">
+     Sensitivity of the parameter α on six datasets analyzed using three evaluation measures.
   </b>
 </p>
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Comparison_All_Datasets.svg?raw=true" width="100%">
