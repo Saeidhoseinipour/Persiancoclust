@@ -5,6 +5,7 @@
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Wordcloud/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust/tree/master/Datasets)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Political/dataset/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust/tree/master/Datasets/Political%20websites)
 [![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Cite/paper/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust#cite)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Podcast/AI/black?icon=instgrame)](https://github.com/Saeidhoseinipour/Persiancoclust#podcast)
 
 
 # **`Persiancoclust`**
@@ -316,6 +317,19 @@ Please cite the following paper in your publication if you are using [`Persianco
 -->
 
 
+<a id="podcast"></a>
+## 🎙 Podcast NotebookLM
+<h3 align="center">🎙 Podcast of orginal paper</h3>
+
+<p align="center"><em>An AI-generated podcast (NotebookLM) based on the paper in this repository</em></p>
+
+<p align="center">🎧 <strong>Now Playing</strong> · 18 min ·</p>
+
+<p align="center">
+  <a href="https://github.com/Saeidhoseinipour/NMTFcoclust/releases/download/podcast-v1/Grouping_Data_Rows_and_Columns_Simultaneously.m4a">
+    <strong>▶ Download & Listen</strong>
+  </a>
+</p>
 
 ## References
 
