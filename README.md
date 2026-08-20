@@ -19,9 +19,9 @@ Official implementation of the paper:
   
 Published in **Iranian Journal of Science**, 2026. 
 
-DOI: https://doi.org/10.1007/s11634-024-00608-3  
+DOI: 
 Code repository: https://github.com/Saeidhoseinipour/Persiancoclust  
-Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)](https://link.springer.com/article/10.1007/s11634-024-00608-3#rightslink)  
+Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()  
 <img src="https://raw.githubusercontent.com/Saeidhoseinipour/ELBMcoclust/main/Images/selfhst--gmail.svg" width="16" height="16" alt="email" style="vertical-align: middle; margin-right: 4px;"> **Call for paper** — [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
 
 ## Links
