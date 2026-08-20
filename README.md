@@ -249,7 +249,7 @@ Sensitivity of the parameters δ and β on six datasets analyzed by accuracy.  <
 
 <p align="center">
   <b style="font-size:2em;">
-Confusion matrices across six datasets using \mathrm{PNMTF}. Prominent diagonals indicate high accuracy and the effective capture of semantic overlaps.
+Confusion matrices across six datasets using PNMTF. Prominent diagonals indicate high accuracy and the effective capture of semantic overlaps.
   </b>
 </p>
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/combined_grid_2x3.svg?raw=true" width="100%">
