@@ -217,6 +217,18 @@ Confusion Matrix   (CM):
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true" width="100%">
 
 
+
+
+<p align="center">
+  <b style="font-size:2em;">
+Confusion matrices across six datasets using $\mathrm{PNMTF}_{\alpha}$. Prominent diagonals indicate high accuracy and the effective capture of semantic overlaps.
+  </b>
+</p>
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/combined_grid_2x3.svg?raw=true" width="100%">
+
+
+
+
 <p align="center">
   <b style="font-size:40px;">
     Reorganized word cloud Co-clustering for 
