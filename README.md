@@ -213,7 +213,11 @@ Confusion Matrix   (CM):
  [   0    0  460]]
 ```
 
-
+<p align="center">
+  <b style="font-size:40px;">
+The top 100 words for each word cloud for \textbf{Digikala} dataset. Larger words have a higher frequency.
+  </b>
+</p>
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Wordcloud_Digimag_33.png?raw=true" width="100%">
 
 
