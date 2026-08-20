@@ -25,7 +25,7 @@ Code repository: https://github.com/Saeidhoseinipour/Persiancoclust
 Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()  
 <img src="https://raw.githubusercontent.com/Saeidhoseinipour/ELBMcoclust/main/Images/selfhst--gmail.svg" width="16" height="16" alt="email" style="vertical-align: middle; margin-right: 4px;"> **Call for paper** — [saeidhoseinipour9@gmail.com](mailto:saeidhoseinipour9@gmail.com)
 
-<---
+<!--
 ## Links
 
 - Paper DOI: https://doi.org/10.1007/s11634-024-00608-3
