@@ -220,16 +220,6 @@ Confusion Matrix   (CM):
 
 
 <p align="center">
-  <b style="font-size:2em;">
-Confusion matrices across six datasets using $\mathrm{PNMTF}_{\alpha}$. Prominent diagonals indicate high accuracy and the effective capture of semantic overlaps.
-  </b>
-</p>
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/combined_grid_2x3.svg?raw=true" width="100%">
-
-
-
-
-<p align="center">
   <b style="font-size:40px;">
     Reorganized word cloud Co-clustering for 
     <a href="https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Persian%20news">
@@ -257,6 +247,12 @@ Sensitivity of the parameters δ and β on six datasets analyzed by accuracy.  <
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Sensitivity_Delta_Beta_Combined.jpg?raw=true" width="100%">
 
 
+<p align="center">
+  <b style="font-size:2em;">
+Confusion matrices across six datasets using \mathrm{PNMTF}. Prominent diagonals indicate high accuracy and the effective capture of semantic overlaps.
+  </b>
+</p>
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/combined_grid_2x3.svg?raw=true" width="100%">
 
 
 <p align="center">
