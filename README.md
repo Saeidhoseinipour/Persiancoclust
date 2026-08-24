@@ -269,9 +269,9 @@ Confusion matrices across six datasets using PNMTF. Prominent diagonals indicate
 </p>
 
 
-
+<!--
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persian-Textmining/blob/master/Image/Total_BarCharts.jpg?raw=true" width="100%">
-
+-->
 
 
 <p align="center">
