@@ -19,7 +19,7 @@ Official implementation of the paper:
   
 Published in **Iranian Journal of Science**, 2026. 
 
-DOI:  
+DOI:  Coming Soon
  
 Code repository: https://github.com/Saeidhoseinipour/Persiancoclust  
 Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()  
