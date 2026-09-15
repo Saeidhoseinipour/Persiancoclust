@@ -12,7 +12,6 @@
 
 
 
-
 # **`Persiancoclust`**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/IJS.png?raw=true" width="96%">
 
@@ -24,7 +23,8 @@ Official implementation of the paper:
   
 Published in **Iranian Journal of Science**, 2026. 
 
-DOI:  Coming Soon
+DOI:  [![](https://badgen.net/badge/Coming/soon/black?icon=instgrame)]()  
+
  
 Code repository: https://github.com/Saeidhoseinipour/Persiancoclust  
 Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()  
