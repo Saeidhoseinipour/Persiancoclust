@@ -33,3 +33,20 @@
 
 - **Opposition – Low Frequency**  
   The low-frequency word cloud for the Opposition cluster (Figure \ref{fig:WC_Opposition_Low}) continues the pattern of specific, event-based, and administrative terminology. The most visually prominent words are **tiny**, **Fredericks**, **release**, **extrajudicial**, **year**, **heavy**, **defense**, and **number**. Secondary terms include **newspaper**, **message**, **army**, **what**, **society**, **Violation**, and **summary**. Terms such as *alternative* and *accountability* are absent. Although **extrajudicial** and **Violation** align with oppositional discourse, they appear within a broader vocabulary focused on reports, numerical information, and defense-related events.
+
+
+
+  
+<p align="center">
+  <b style="font-size:40px;">
+    Reorganized word clouds for co-clustering of 
+    <a href="https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites">
+      Political websites
+    </a>
+  </b>
+</p>
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/Total_WordClouds.jpg?raw=true" width="100%">
+
+
+
+
