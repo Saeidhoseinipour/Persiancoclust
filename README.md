@@ -330,8 +330,25 @@ Confusion matrices across six datasets using PNMTF. Prominent diagonals indicate
 
 
 
+<img width="888" height="966" alt="image" src="https://github.com/user-attachments/assets/f4026f98-1e95-4981-b5a4-9b6b5710aee4" />
 
+<p align="center">
+  <b style="font-size:40px;">
+    Objective functions for co-clustering of 
+    <a href="https://github.com/Saeidhoseinipour/Persian-Textmining/tree/master/Datasets/Political%20websites">
+      Political websites
+    </a>
+  </b>
+</p>
 
+<p align="center">
+  <img
+    alt="Objective functions of NMTF and PNMTF: D_alpha divergence with graph and sparse regularization terms"
+    src="https://github.com/user-attachments/assets/f4026f98-1e95-4981-b5a4-9b6b5710aee4"
+    width="500"
+    loading="lazy"
+  />
+</p>
 
 
 ## Cite
