@@ -91,23 +91,17 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()
 
 - NMTF
 	```math
-		D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
+		D_{\alpha}(𝐗 ‖ 𝐑𝐁𝐂ᵀ)
 	```
 
 - PNMTF
 	```math
-		D_{\alpha}(\mathbf{X}|| \mathbf{RBC}^{\top})
+		D_{\alpha}(𝐗 ‖ 𝐑𝐁𝐂ᵀ)
 		+
-		\delta \; Tr(\mathbf{R}\Psi_{g}\mathbf{R}^{\top})
+		\delta \; Tr(𝐑\Psi_{g}𝐑^{\top})
 		+
-		\beta \;  Tr(\mathbf{C}\Psi_{s}\mathbf{C}^{\top}),
+		\beta \;  Tr(𝐂\Psi_{s}𝐂^{\top}),
 	```
-
-D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ)
-
-
-D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ) + δ · Tr(𝐑 𝚿_g 𝐑ᵀ) + β · Tr(𝐂 𝚿_s 𝐂ᵀ)
-
 
 ## Objective functions
 
@@ -118,6 +112,28 @@ D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ) + δ · Tr(𝐑 𝚿_g 𝐑ᵀ) + β · Tr(𝐂 �
 - **PNMTF**
 
   D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ) + δ · Tr(𝐑 𝚿_g 𝐑ᵀ) + β · Tr(𝐂 𝚿_s 𝐂ᵀ)
+
+
+
+## Objective functions
+
+- <strong>NMTF</strong>
+
+  <p>
+    <em>D</em><sub>α</sub>(<b>X</b>&nbsp;‖&nbsp;<b>R</b><b>B</b><b>C</b><sup>⊤</sup>)
+  </p>
+
+- <strong>PNMTF</strong>
+
+  <p>
+    <em>D</em><sub>α</sub>(<b>X</b>&nbsp;‖&nbsp;<b>R</b><b>B</b><b>C</b><sup>⊤</sup>)
+    &nbsp;+&nbsp;
+    <em>δ</em>&nbsp;Tr(<b>R</b>&thinsp;<em>Ψ</em><sub>g</sub>&thinsp;<b>R</b><sup>⊤</sup>)
+    &nbsp;+&nbsp;
+    <em>β</em>&nbsp;Tr(<b>C</b>&thinsp;<em>Ψ</em><sub>s</sub>&thinsp;<b>C</b><sup>⊤</sup>)
+  </p>
+
+
 
 ## Co-clustering
 
