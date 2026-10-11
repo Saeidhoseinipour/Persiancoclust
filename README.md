@@ -108,6 +108,17 @@ D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ)
 
 D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ) + δ · Tr(𝐑 𝚿_g 𝐑ᵀ) + β · Tr(𝐂 𝚿_s 𝐂ᵀ)
 
+
+## Objective functions
+
+- **NMTF**
+
+  D_{α}(𝐗 ‖ 𝐑𝐁𝐂ᵀ)
+
+- **PNMTF**
+
+  D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ) + δ · Tr(𝐑 𝚿_g 𝐑ᵀ) + β · Tr(𝐂 𝚿_s 𝐂ᵀ)
+
 ## Co-clustering
 
 ### NMTF
