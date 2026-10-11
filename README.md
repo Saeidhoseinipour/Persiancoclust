@@ -348,7 +348,7 @@ Confusion matrices across six datasets using PNMTF. Prominent diagonals indicate
     loading="lazy"
   />
 </p>
-<img width="870" height="1046" alt="image" src="" />
+
 
 
 ## Cite
