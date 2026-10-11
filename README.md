@@ -340,8 +340,8 @@ Confusion matrices across six datasets using PNMTF. Prominent diagonals indicate
 
 <p align="center">
   <img
-    alt="Objective functions of NMTF and PNMTF: D_alpha divergence with graph and sparse regularization terms"
-    src="https://github.com/user-attachments/assets/f4026f98-1e95-4981-b5a4-9b6b5710aee4"
+    alt="Saeid Hoseinipour, Representative words across the 12 co-clusters in the \textbf{Political websites} dataset, formed by four political clusters (Principlist, Reformist, Independent, Opposition) as row-clusters and three frequency levels (Low, Medium, High) as column-clusters. The word cloud of each political row-cluster shown in the last column."
+    src="[https://github.com/user-attachments/assets/f4026f98-1e95-4981-b5a4-9b6b5710aee4](https://github.com/user-attachments/assets/78007f6a-c0ee-4d66-827c-f41a01349933)"
     width="500"
     loading="lazy"
   />
@@ -402,6 +402,13 @@ Please cite the following paper in your publication if you are using [`Persianco
     <strong>▶ Download & Listen</strong>
   </a>
 </p>
+
+
+
+
+
+
+
 
 ## References
 
