@@ -76,13 +76,13 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()
 
 ## Notation
 
-- **X**: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
+- 𝐗: Word-Document counts, Movie-Viewer ratings, Product-Customer purchases matrices 
 
-- **R**: **R**ow-coefficient matrix
+- 𝐑: 𝐑ow-coefficient matrix
 
-- **B**: **B**lock  matrix
+- 𝐁: 𝐁lock  matrix
 
-- **C**: **C**olumn-coefficient matrix
+- 𝐂: 𝐂olumn-coefficient matrix
 
 
 
@@ -128,6 +128,19 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()
 ## Multiplicative Update Rules
 
 <img width="543" height="477" alt="image" src="https://github.com/user-attachments/assets/8f66b0bd-87de-45df-9a5a-dde36dcef2c0" />
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/8f66b0bd-87de-45df-9a5a-dde36dcef2c0"
+    alt="Objective functions of NMTF and PNMTF: D_alpha divergence with graph and sparse regularization terms"
+    width="480"
+    loading="lazy"
+  />
+</p>
+
+<p align="center">
+  <sub><em>Figure 1 — Objective functions of NMTF and PNMTF.</em></sub>
+</p>
 
 
 ## Co-clustering
