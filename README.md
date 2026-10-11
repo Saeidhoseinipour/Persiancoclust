@@ -344,7 +344,7 @@ Confusion matrices across six datasets using PNMTF. Prominent diagonals indicate
   <img
     alt="Screenshot: 'README.md"
     src="https://github.com/user-attachments/assets/824f7225-0e50-432f-aab3-880240491690"
-    width="500"
+    width="800"
     loading="lazy"
   />
 </p>
