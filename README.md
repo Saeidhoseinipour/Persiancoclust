@@ -103,6 +103,13 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()
 		\beta \;  Tr(\mathbf{C}\Psi_{s}\mathbf{C}^{\top}),
 	```
 
+$$
+D_{\alpha}\!\left(\boldsymbol{X} \,\middle\|\, \boldsymbol{R}\boldsymbol{B}\boldsymbol{C}^{\top}\right)
+\;+\;
+\delta\,\operatorname{Tr}\!\left(\boldsymbol{R}\,\Psi_{g}\,\boldsymbol{R}^{\top}\right)
+\;+\;
+\beta\,\operatorname{Tr}\!\left(\boldsymbol{C}\,\Psi_{s}\,\boldsymbol{C}^{\top}\right)
+$$
 
 ## Co-clustering
 
