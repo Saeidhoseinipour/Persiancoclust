@@ -103,16 +103,6 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()
 		\beta \;  Tr(𝐂\Psi_{s}𝐂^{\top}),
 	```
 
-## Objective functions
-
-- **NMTF**
-
-  D_{α}(𝐗 ‖ 𝐑𝐁𝐂ᵀ)
-
-- **PNMTF**
-
-  D_α(𝐗 ‖ 𝐑𝐁𝐂ᵀ) + δ · Tr(𝐑 𝚿_g 𝐑ᵀ) + β · Tr(𝐂 𝚿_s 𝐂ᵀ)
-
 
 
 ## Objective functions
@@ -133,6 +123,11 @@ Download: [![](https://badgen.net/badge/Orginal/Paper/black?icon=instgrame)]()
     <em>β</em>&nbsp;Tr(<b>C</b>&thinsp;<em>Ψ</em><sub>s</sub>&thinsp;<b>C</b><sup>⊤</sup>)
   </p>
 
+
+
+## Multiplicative Update Rules
+
+<img width="543" height="477" alt="image" src="https://github.com/user-attachments/assets/8f66b0bd-87de-45df-9a5a-dde36dcef2c0" />
 
 
 ## Co-clustering
