@@ -384,7 +384,7 @@ Please cite the following paper in your publication if you are using [`Persianco
 
 
 <a href="">
-  <img src="" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width: 70%;">
+  <img src="" alt="Presentation video for OPNMTF, Text mining, Matrix factorization, Co-clustering, Saeid Hoseinipour" style="width: 90%;">
 </a>
 -->
 
