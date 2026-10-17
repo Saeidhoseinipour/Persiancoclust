@@ -10,7 +10,6 @@
 
 
 
-
 # **`Persiancoclust`**
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/Persiancoclust/blob/master/Image/IJS.png?raw=true" width="96%">
 
